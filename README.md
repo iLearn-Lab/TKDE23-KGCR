@@ -2,11 +2,17 @@
 
 > A novel Knowledge Graph-based Causal Recommendation (KGCR) framework that addresses biases in KG-based recommender systems by employing causal inference principles.
 
+---
 ## Authors
 
-**Yinwei Wei**\*, **Xiang Wang**, **Liqiang Nie**, **Shaoyu Li**, **Dingxian Wang**, **Tat-Seng Chua**
+**Yinwei Wei**<sup>1</sup>, **Xiang Wang**<sup>2</sup>, **Liqiang Nie**<sup>1</sup>\*, **Shaoyu Li**<sup>1</sup>, **Dingxian Wang**<sup>3</sup>, **Tat-Seng Chua**<sup>2</sup>
 
-\* Corresponding author (weiyinwei at hotmail.com)
+<sup>1</sup> Shandong University, China  
+<sup>2</sup> National University of Singapore, Singapore  
+<sup>3</sup> Meituan, China  
+\* Corresponding author
+
+---
 
 ## Links
 
